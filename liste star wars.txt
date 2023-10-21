@@ -1,0 +1,62 @@
+perso dispo 
+
+maître Yoda
+Luke Skywalker
+Chewbacca
+R2D2
+
+---------------------------------------------------------------------
+
+info ennemis:
+
+-Stormtrooper: - 100pv
+              - 10 dommages
+dégat à distance (blasters)
+
+
+
+-Dark Vador: - 300pv
+	     -75 dommages 
+utilise la force et corps à corps (dégat à distance et sabre laser)
+
+
+
+-Kylo Ren: -200pv
+	   - 50 dommages 
+
+dégat corps à corps( sabre laser)
+
+--------------------------------------------------------------------------
+
+Object :
+blaster ( dégats à distance)
+soin (antidode universel) soigne 50 pv
+Grenade ( dégats à distance) 100 dommages 
+--------------------------------------------------------------------------
+
+Endroit particulier:
+
+Salle du Trône de L'empereur où se situe Dark Vador --> combat 
+armurerie --> où se situe les blaster et grenades 2 de chaques
+Salle de Conférences où se situe Dark Sidious
+Pont supérieur --> où se situe 2 Stormtrooper
+infirmerie --> se situe les antidotes 
+
+--------------------------------------------------------------------------
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
